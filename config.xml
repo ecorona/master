@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget 
-	id="com.MyMasterPoints.mobil" 
+	id="com.MyMasterPoints.mobil"
+	android-packageName="com.MyMasterPoints.mobil"
+	ios-CFBundleIdentifier="com.mypoints.mobil"
 	version="2.6.8" 
 	xmlns="http://www.w3.org/ns/widgets" 
 	xmlns:gap="http://phonegap.com/ns/1.0"
