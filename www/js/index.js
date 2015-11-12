@@ -2,7 +2,7 @@
  * Listo!
  */
 
-var plusServer="http://mymasterpoints.com/system/";
+var plusServer="https://mymasterpoints.com/system/";
 var getScript="index.php/tienda/getMobil";
 var gcmScript="index.php/tienda/saveRegGCM";
 var optionScript="index.php/tienda/mobileSaveOpt";
