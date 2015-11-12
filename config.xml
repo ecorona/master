@@ -1,10 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget 
-	id="com.mypoints.mobil" 
-	version="2.6.7" 
+	id="com.MyMasterPoints.mobil" 
+	version="2.6.8" 
 	xmlns="http://www.w3.org/ns/widgets" 
 	xmlns:gap="http://phonegap.com/ns/1.0"
 	>
+	
+	<!-- para ios el id='com.mypoints.mobil' -->
+	<!-- para android el id='com.MyMasterPoints.mobil' -->
+	
     <name>My Master Points</name>
     <description>
         Aplicación para el monedero electrónico My Master Points
