@@ -238,6 +238,11 @@ function doLogin(cambiar,isrefresh){
             	$("#noPromos").removeClass('oculto');
             	$("#contenedorPromos").empty();
             	
+            	if(retorno.barcode){
+            		$("#barcode").attr('src',retorno.barcode);
+            	}else{
+            		$("#barcode").hide();
+            	}
             	
         		$.each(retorno.promociones,function(i,p){
         			app.log('promocion:');
