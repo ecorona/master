@@ -61,6 +61,8 @@
     <gap:plugin name="com.phonegap.plugins.pushplugin" version="2.5.0" />
     <gap:plugin name="com.phonegap.plugin.statusbar" />
     
+    <gap:plugin name="cordova-plugin-whitelist" source="npm" />
+    
     <icon src="icon.png" />
     <splash src="splash.png" />
     <gap:splash src="splash.png" />
