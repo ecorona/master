@@ -19,7 +19,7 @@ var miUbicacion={lat:0,lng:0}, mapa, watchID, estado=0,retornoObj,
 //   - "Tizen"
 
 var app = {
-	debug:false,
+	debug:true,
     // Application Constructor
     initialize: function() {
         this.bindEvents();
